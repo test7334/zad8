@@ -31,7 +31,7 @@ int main()
 
 	napis1 = napis2;
 	cout << "napis1 = " << napis1 << endl;
-
+	//komentarz
 
 	int c = 0;
 	while (*napis1 != '\0') {
